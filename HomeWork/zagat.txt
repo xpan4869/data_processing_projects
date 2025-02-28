@@ -1,0 +1,331 @@
+Apple Pan  The 10801 W. Pico Blvd. West LA 
+Arnie Morton's of Chicago 435 S. La Cienega Blvd. Los Angeles 
+Art's Deli 12224 Ventura Blvd. Studio City 
+Asahi Ramen 2027 Sawtelle Blvd. West LA 
+Baja Fresh 3345 Kimber Dr. Westlake Village 
+Bel-Air Hotel 701 Stone Canyon Rd. Bel Air 
+Belvedere  The 9882 Little Santa Monica Blvd. Beverly Hills 
+Benita's Frites 1433 Third St. Promenade Santa Monica 
+Bernard's 515 S. Olive St. Los Angeles 
+Bistro 45 45 S. Mentor Ave. Pasadena 
+Brent's Deli 19565 Parthenia Ave. Northridge 
+Brighton Coffee Shop 9600 Brighton Way Beverly Hills 
+Bristol Farms Market Cafe 1570 Rosecrans Ave. S. Pasadena 
+Bruno's 3838 Centinela Ave. Mar Vista 
+Cafe '50s 838 Lincoln Blvd. Venice 
+Cafe Bizou 14016 Ventura Blvd. Sherman Oaks 
+Cafe Blanc 9777 Little Santa Monica Blvd. Beverly Hills 
+Campanile 624 S. La Brea Ave. Los Angeles 
+Cassell's 3266 W. Sixth St. LA 
+Chez Melange 1716 PCH Redondo Beach 
+Chinois on Main 2709 Main St. Santa Monica 
+Citrus 6703 Melrose Ave. Los Angeles 
+Diaghilev 1020 N. San Vicente Blvd. W. Hollywood 
+Don Antonio's 1136 Westwood Blvd. Westwood 
+Duke's 8909 Sunset Blvd. W. Hollywood 
+Falafel King 1059 Broxton Ave. Westwood 
+Feast from the East 1949 Westwood Blvd. West LA 
+Fenix at the Argyle 8358 Sunset Blvd. W. Hollywood 
+Granita 23725 W. Malibu Rd. Malibu 
+Grill  The 9560 Dayton Way Beverly Hills 
+Gumbo Pot  The 6333 W. Third St. LA 
+Hollywood Hills Coffee Shop 6145 Franklin Ave. Hollywood 
+Indo Cafe 10428 1/2 National Blvd. LA 
+Jan's Family Restaurant 8424 Beverly Blvd. LA 
+JiRaffe 502 Santa Monica Blvd. Santa Monica 
+Jody Maroni's Sausage Kingdom 2011 Ocean Front Walk Venice 
+Joe's 1023 Abbot Kinney Blvd. Venice 
+John O'Groats 10516 W. Pico Blvd. West LA 
+Johnnie's Pastrami 4017 S. Sepulveda Blvd. Culver City 
+Johnny Reb's Southern Smokehouse 4663 Long Beach Blvd. Long Beach 
+Johnny Rockets (LA) 7507 Melrose Ave. LA 
+Katsu 1972 Hillhurst Ave. Los Feliz 
+Killer Shrimp 4000 Colfax Ave. Studio City 
+Kokomo Cafe 6333 W. Third St. LA 
+Koo Koo Roo 8393 W. Beverly Blvd. LA 
+L'Orangerie 903 N. La Cienega Blvd. W. Hollywood 
+La Cachette 10506 Little Santa Monica Blvd. Century City 
+La Salsa (LA) 22800 PCH Malibu 
+La Serenata de Garibaldi 1842 E. First St. Boyle Hts. 
+Langer's 704 S. Alvarado St. LA 
+Le Chardonnay (Los Angeles) 8284 Melrose Ave. Los Angeles 
+LoCal NoChol 30869 Thousand Oaks Blvd. Westlake Village 
+Locanda Veneta 8638 W. Third St. Los Angeles 
+Main Course  The 10509 W. Pico Blvd. Rancho Park 
+Mani's Bakery & Espresso Bar 519 S. Fairfax Ave. LA 
+Martha's 22nd Street Grill 25 22nd St. Hermosa Beach 
+Matsuhisa 129 N. La Cienega Blvd. Beverly Hills 
+Maxwell's Cafe 13329 Washington Blvd. Marina del Rey 
+Michael's (Los Angeles) 1147 Third St. Santa Monica 
+Mishima 8474 W. Third St. LA 
+Mo Better Meatty Meat 7261 Melrose Ave. LA 
+Mulberry St. 17040 Ventura Blvd. Encino 
+Ocean Park Cafe 3117 Ocean Park Blvd. Santa Monica 
+Ocean Star 145 N. Atlantic Blvd. Monterey Park 
+Original Pantry Bakery 875 S. Figueroa St. Downtown LA 
+Palm  The (Los Angeles) 9001 Santa Monica Blvd. W. Hollywood 
+Parkway Grill 510 S. Arroyo Pkwy. Pasadena 
+Patina 5955 Melrose Ave. Los Angeles 
+Philippe The Original 1001 N. Alameda St. Chinatown 
+Pho Hoa 642 Broadway Chinatown 
+Pink's Famous Chili Dogs 709 N. La Brea Ave. LA 
+Pinot Bistro 12969 Ventura Blvd. Studio City 
+Poquito Mas 2635 W. Olive Ave. Burbank 
+R-23 923 E. Third St. Los Angeles 
+Rae's 2901 Pico Blvd. Santa Monica 
+Rex Il Ristorante 617 S. Olive St. Los Angeles 
+Rubin's Red Hots 15322 Ventura Blvd. Encino 
+Ruby's (LA) 45 S. Fair Oaks Ave. Pasadena 
+Russell's Burgers 1198 PCH Seal Beach 
+Ruth's Chris Steak House (Los Angeles) 224 S. Beverly Dr. Beverly Hills 
+Shiro 1505 Mission St. S. Pasadena 
+Spago (Los Angeles) 8795 Sunset Blvd. W. Hollywood 
+Sushi Nozawa 11288 Ventura Blvd. Studio City 
+Sweet Lady Jane 8360 Melrose Ave. LA 
+Taiko 11677 San Vicente Blvd. Brentwood 
+Tommy's 2575 Beverly Blvd. LA 
+Uncle Bill's Pancake House 1305 Highland Ave. Manhattan Beach 
+Valentino 3115 Pico Blvd. Santa Monica 
+Water Grill 544 S. Grand Ave. Los Angeles 
+Yujean Kang's 67 N. Raymond Ave. Pasadena 
+Zankou Chicken 1415 E. Colorado St. Glendale 
+21 Club 21 W. 52nd St. New York City 
+Afghan Kebab House 764 Ninth Ave. New York City 
+Aquavit 13 W. 54th St. New York City 
+Arcadia 21 E. 62nd St. New York City 
+Aureole 34 E. 61st St. New York City 
+Benny's Burritos 93 Ave. A New York City 
+Cafe Con Leche 424 Amsterdam Ave. New York City 
+Cafe Lalo 201 W. 83rd St. New York City 
+Cafe des Artistes 1 W. 67th St. New York City 
+Carmine's 2450 Broadway New York City 
+Carnegie Deli 854 Seventh Ave. New York City 
+Chanterelle 2 Harrison St. New York City 
+Corner Bistro 331 W. Fourth St. New York City 
+Cucina della Fontana 368 Bleecker St. New York City 
+Cucina di Pesce 87 E. Fourth St. New York City 
+Daniel 20 E. 76th St. New York City 
+Darbar 44 W. 56th St. New York City 
+Dawat 210 E. 58th St. New York City 
+EJ's Luncheonette 432 Sixth Ave. New York City 
+Edison Cafe 228 W. 47th St. New York City 
+Elias Corner 24-02 31st St. Queens 
+Felidia 243 E. 58th St. New York City 
+Four Seasons 99 E. 52nd St. New York City 
+Good Enough to Eat 483 Amsterdam Ave. New York City 
+Gotham Bar & Grill 12 E. 12th St. New York City 
+Gramercy Tavern 42 E. 20th St. New York City 
+Gray's Papaya 2090 Broadway New York City 
+Il Mulino 86 W. Third St. New York City 
+Island Spice 402 W. 44th St. New York City 
+Jackson Diner 37-03 74th St. Queens 
+Jo Jo 160 E. 64th St. New York City 
+Joe's Shanghai 9 Pell St. Queens 
+John's Pizzeria 48 W. 65th St. New York City 
+Kelley & Ping 127 Greene St. New York City 
+Kiev 117 Second Ave. New York City 
+Kuruma Zushi 2nd fl. New York City 
+La Caravelle 33 W. 55th St. New York City 
+La Caridad 2199 Broadway New York City 
+La Cote Basque 60 W. 55th St. New York City 
+La Grenouille 3 E. 52nd St. New York City 
+Le Bernardin 155 W. 51st St. New York City 
+Lemongrass Grill 61A Seventh Ave. Brooklyn 
+Les Celebrites 155 W. 58th St. New York City 
+Lespinasse (New York City) 2 E. 55th St. New York City 
+Lombardi's 32 Spring St. New York City 
+Lutece 249 E. 50th St. New York City 
+Manhattan Ocean Club 57 W. 58th St. New York City 
+March 405 E. 58th St. New York City 
+Marnie's Noodle Shop 466 Hudson St. New York City 
+Menchanko-tei 39 W. 55th St. New York City 
+Mesa Grill 102 Fifth Ave. New York City 
+Mi Cocina 57 Jane St. New York City 
+Mitali East-West 296 Bleecker St. New York City 
+Monsoon (NY) 435 Amsterdam Ave. New York City 
+Montrachet 239 W. Broadway New York City 
+Moustache 405 Atlantic Ave. Brooklyn 
+Nobu 105 Hudson St. New York City 
+Oceana 55 E. 54th St. New York City 
+One if by Land  TIBS 17 Barrow St. New York City 
+Oyster Bar lower level New York City 
+Palm 837 Second Ave. New York City 
+Palm Too 840 Second Ave. New York City 
+Park Avenue Cafe (New York City) 100 E. 63rd St. New York City 
+Patsy's Pizza 19 Old Fulton St. Brooklyn 
+Peter Luger Steak House 178 Broadway Brooklyn 
+Petrossian 182 W. 58th St. New York City 
+Picholine 35 W. 64th St. New York City 
+Pisces 95 Ave. A New York City 
+Rainbow Room 30 Rockefeller Plaza New York City 
+River Cafe 1 Water St. Brooklyn 
+Rose of India 308 E. Sixth St. New York City 
+Sam's Noodle Shop 411 Third Ave. New York City 
+San Domenico 240 Central Park S. New York City 
+Sarabeth's 1295 Madison Ave. New York City 
+Second Avenue Deli 156 Second Ave. New York City 
+Seryna 11 E. 53rd St. New York City 
+Shun Lee Palace 155 E. 55th St. New York City 
+Sign of the Dove 1110 Third Ave. New York City 
+Smith & Wollensky 797 Third Ave. New York City 
+Sparks Steak House 210 E. 46th St. New York City 
+Stick To Your Ribs 5-16 51st Ave. Queens 
+Sushisay 38 E. 51st St. New York City 
+Sylvia's 328 Lenox Ave. New York City 
+Szechuan Hunan Cottage 1588 York Ave. New York City 
+Szechuan Kitchen 1460 First Ave. New York City 
+Tavern on the Green Central Park West New York City 
+Teresa's 80 Montague St. Queens 
+Thai House Cafe 151 Hudson St. New York City 
+Thailand Restaurant 106 Bayard St. New York City 
+Uncle Nick's 747 Ninth Ave. New York City 
+Union Square Cafe 21 E. 16th St. New York City 
+Veselka 144 Second Ave. New York City 
+Virgil's Real BBQ 152 W. 44th St. New York City 
+Westside Cottage 689 Ninth Ave. New York City 
+Windows on the World 107th fl. New York City 
+Wollensky's Grill 205 E. 49th St. New York City 
+Yama 122 E. 17th St. New York City 
+Zarela 953 Second Ave. New York City 
+Andre's French Restaurant 401 S. 6th St. Las Vegas 
+Buccaneer Bay Club 3300 Las Vegas Blvd. S. Las Vegas 
+Buzio's in the Rio 3700 W. Flamingo Rd. Las Vegas 
+Chin's 3200 Las Vegas Blvd. S. Las Vegas 
+Coyote Cafe (Las Vegas) 3799 Las Vegas Blvd. S. Las Vegas 
+Emeril's New Orleans Fish House 3799 Las Vegas Blvd. S. Las Vegas 
+Fiore Rotisserie & Grille 3700 W. Flamingo Rd. Las Vegas 
+Hugo's Cellar 202 E. Fremont St. Las Vegas 
+Le Montrachet Bistro 3000 Paradise Rd. Las Vegas 
+Madame Ching's 3300 Las Vegas Blvd. S. Las Vegas 
+Mayflower Cuisinier 4750 W. Sahara Ave. Las Vegas 
+Michael's (Las Vegas) 3595 Las Vegas Blvd. S. Las Vegas 
+Monte Carlo 3145 Las Vegas Blvd. S. Las Vegas 
+Moongate 3400 Las Vegas Blvd. S. Las Vegas 
+Morton's of Chicago (Las Vegas) 3200 Las Vegas Blvd. S. Las Vegas 
+Nicky Blair's 3925 Paradise Rd. Las Vegas 
+Palace Court 3570 Las Vegas Blvd. S. Las Vegas 
+Piero's Restaurant 355 Convention Center Dr. Las Vegas 
+Second Street Grill 200 E. Fremont St. Las Vegas 
+Spago (Las Vegas) 3500 Las Vegas Blvd. S. Las Vegas 
+Steak House  The 2880 Las Vegas Blvd. S. Las Vegas 
+Steakhouse  The 128 E. Fremont St. Las Vegas 
+Stefano's 129 Fremont St. Las Vegas 
+Sterling Brunch 3645 Las Vegas Blvd. S. Las Vegas 
+Tillerman  The 2245 E. Flamingo Rd. Las Vegas 
+Tre Visi 3799 Las Vegas Blvd. S. Las Vegas 
+103 West 103 W. Paces Ferry Rd. Atlanta 
+Abruzzi 2355 Peachtree Rd. NE Atlanta 
+Alon's at the Terrace 659 Peachtree St. Atlanta 
+Bacchanalia 3125 Piedmont Rd. Atlanta 
+Baker's Cajun Cafe 1134 Euclid Ave. Atlanta 
+Barbecue Kitchen 1437 Virginia Ave. Atlanta 
+Bistro  The 56 E. Andrews Dr. NW Atlanta 
+Bobby & June's Kountry Kitchen 375 14th St. Atlanta 
+Bone's Restaurant 3130 Piedmont Rd. NE Atlanta 
+Bradshaw's Restaurant 2911 S. Pharr Court Atlanta 
+Brasserie Le Coze 3393 Peachtree Rd. Atlanta 
+Brookhaven Cafe 4274 Peachtree Rd. Atlanta 
+Buckhead Diner 3073 Piedmont Rd. Atlanta 
+Cafe Sunflower 5975 Roswell Rd. Atlanta 
+Canoe 4199 Paces Ferry Rd. Atlanta 
+Carey's 1021 Cobb Pkwy. SE Marietta 
+Carey's Corner 1215 Powers Ferry Rd. Marietta 
+Chops 70 W. Paces Ferry Rd. Atlanta 
+Chopstix 4279 Roswell Rd. Atlanta 
+Ciboulette Restaurant 1529 Piedmont Ave. Atlanta 
+Deacon Burton's Soulfood Restaurant 1029 Edgewood Ave. SE Atlanta
+Delectables 1 Margaret Mitchell Sq. Atlanta 
+Eats 600 Ponce de Leon Ave. Atlanta 
+Flying Biscuit  The 1655 McLendon Ave. Atlanta 
+Frijoleros 1031 Peachtree St. NE Atlanta 
+Georgia Grille 2290 Peachtree Rd. Atlanta 
+Greenwood's 1087 Green St. Roswell 
+Harold's Barbecue 171 McDonough Blvd. Atlanta 
+Havana Sandwich Shop 2905 Buford Hwy. Atlanta 
+Hedgerose Heights Inn  The 490 E. Paces Ferry Rd. NE Atlanta 
+Heera of India 595 Piedmont Ave. Atlanta 
+House of Chan 2469 Cobb Pkwy. Smyrna 
+Indian Delights 3675 Satellite Blvd. Duluth 
+Indigo Coastal Grill 1397 N. Highland Ave. Atlanta 
+Java Jive 790 Ponce de Leon Ave. Atlanta 
+Johnny Rockets (AT) 2970 Cobb Pkwy. Atlanta 
+Kalo's Coffee House 1248 Clairmont Rd. Decatur 
+La Fonda Latina 4427 Roswell Rd. Atlanta 
+La Grotta 2637 Peachtree Rd. NE Atlanta 
+Lettuce Souprise You (AT) 3525 Mall Blvd. Duluth 
+Majestic 1031 Ponce de Leon Ave. Atlanta 
+Mary Mac's Tea Room 224 Ponce de Leon Ave. Atlanta 
+Morton's of Chicago (Atlanta) 303 Peachtree St. NE Atlanta 
+My Thai 1248 Clairmont Rd. Atlanta 
+Nava 3060 Peachtree Rd. Atlanta 
+Nikolai's Roof 255 Courtland St. Atlanta 
+Nuevo Laredo Cantina 1495 Chattahoochee Ave. NW Atlanta 
+Original Pancake House (AT) 4330 Peachtree Rd. Atlanta 
+Palm  The (Atlanta) 3391 Peachtree Rd. NE Atlanta 
+Pano's & Paul's 1232 W. Paces Ferry Rd. Atlanta 
+Rainbow Restaurant 2118 N. Decatur Rd. Decatur 
+Ritz-Carlton Cafe (Atlanta) 181 Peachtree St. Atlanta 
+Ritz-Carlton Cafe (Buckhead) 3434 Peachtree Rd. NE Atlanta 
+Ritz-Carlton Dining Room (Buckhead) 3434 Peachtree Rd. NE Atlanta 
+Ritz-Carlton Restaurant 181 Peachtree St. Atlanta 
+Riviera 519 E. Paces Ferry Rd. Atlanta 
+Silver Skillet  The 200 14th St. NW Atlanta 
+Soto 3330 Piedmont Rd. Atlanta 
+Thelma's Kitchen 764 Marietta St. NW Atlanta 
+Tortillas 774 Ponce de Leon Ave. NE Atlanta 
+Toulouse 293-B Peachtree Rd. Atlanta 
+Van Gogh's Restaurant & Bar 70 W. Crossville Rd. Roswell 
+Veggieland 220 Sandy Springs Circle Atlanta 
+Veni Vidi Vici 41 14th St. Atlanta 
+White House Restaurant 3172 Peachtree Rd. NE Atlanta 
+Zab-E-Lee 4837 Old National Hwy. College Park 
+Alain Rondelli 126 Clement St. San Francisco 
+Aqua 252 California St. San Francisco 
+Bill's Place 2315 Clement St. San Francisco 
+Boulevard 1 Mission St. San Francisco 
+Cafe Claude 7 Claude Ln. San Francisco 
+Cafe Flore 2298 Market St. San Francisco 
+Caffe Greco 423 Columbus Ave. San Francisco 
+Campo Santo 240 Columbus Ave. San Francisco 
+Campton Place 340 Stockton St. San Francisco 
+Cha Cha Cha's 1805 Haight St. San Francisco 
+Chez Michel 804 North Point St. San Francisco 
+Doidge's 2217 Union St. San Francisco 
+Dottie's True Blue Cafe 522 Jones St. San Francisco 
+Dusit Thai 3221 Mission St. San Francisco 
+Ebisu 1283 Ninth Ave. San Francisco 
+Emerald Garden Restaurant 1550 California St. San Francisco 
+Eric's Chinese Restaurant 1500 Church St. San Francisco 
+Fleur de Lys 777 Sutter St. San Francisco 
+Fringale 570 Fourth St. San Francisco 
+Hamburger Mary's 1582 Folsom St. San Francisco 
+Hawthorne Lane 22 Hawthorne St. San Francisco 
+Kelly's on Trinity 333 Bush St. San Francisco 
+Khan Toke Thai House 5937 Geary Blvd. San Francisco 
+La Cumbre 515 Valencia St. San Francisco 
+La Folie 2316 Polk St. San Francisco 
+La Mediterranee 288 Noe St. San Francisco 
+La Taqueria 2889 Mission St. San Francisco 
+LuLu Restaurant-Bis-Cafe 816 Folsom St. San Francisco 
+Mario's Bohemian Cigar Store Cafe 2209 Polk St. San Francisco 
+Marnee Thai 2225 Irving St. San Francisco 
+Masa's 648 Bush St. San Francisco 
+Mel's Drive-In 3355 Geary St. San Francisco 
+Mifune 1737 Post St. San Francisco 
+Mo's Burgers 1322 Grant St. San Francisco 
+Phnom Penh Cambodian Restaurant 631 Larkin St. San Francisco 
+PlumpJack Cafe 3127 Fillmore St. San Francisco 
+Postrio 545 Post St. San Francisco 
+Ritz-Carlton Dining Room (San Francisco) 600 Stockton St. San Francisco 
+Roosevelt Tamale Parlor 2817 24th St. San Francisco 
+Rose Pistola 532 Columbus Ave. San Francisco 
+Sally's Cafe & Bakery 300 De Haro St. San Francisco 
+San Francisco BBQ 1328 18th St. San Francisco 
+Slanted Door 584 Valencia St. San Francisco 
+Swan Oyster Depot 1517 Polk St. San Francisco 
+Thep Phanom 400 Waller St. San Francisco 
+Ti Couz 3108 16th St. San Francisco 
+Trio Cafe 1870 Fillmore St. San Francisco 
+Tu Lan 8 Sixth St. San Francisco 
+Vicolo Pizzeria 201 Ivy St. San Francisco 
+Wa-Ha-Ka Oaxaca Mexican Grill 2141 Polk St. San Francisco 
