@@ -5,7 +5,7 @@
   - **Course Search Engine Backend:** Utilized SQL to return corresponding courses for differnt inputs
   - **Record Linkage:** Leveraged probabilistic record linkage technique to map restaurants from two yelp-like retaurant lists
 
-**Topics Covered** in HomeWork file:
+**Topics Covered** in _Practices_ file:
   1. regex
   2. scraping
   3. sqlite
